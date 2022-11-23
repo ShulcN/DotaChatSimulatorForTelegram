@@ -10,7 +10,7 @@ from deeppavlov import build_model
 import pandas as pd
 from aiogram import Bot, Dispatcher, executor, types
 
-API_TOKEN = '5817022810:AAHr4f8l_a0xZqqafcM3vAByng3EPH3hQ18'
+API_TOKEN = '******************************************'
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
